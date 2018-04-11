@@ -1,0 +1,6 @@
+framework module Pods_ProgressBar {
+  umbrella header "Pods-ProgressBar-umbrella.h"
+
+  export *
+  module * { export * }
+}
